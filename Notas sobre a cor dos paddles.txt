@@ -1,0 +1,11 @@
+Botton 1 - IS COLOR PLAYER - NÃO TICADO
+
+BUTTON 2 - IS COLOR PLAYER - TICADO
+
+PlayerPaddle - IS PLAYER - TICADO
+
+EnemyPaddle - IS PLAYER - TICADO
+
+Nameplayer - is player - NÃO TICADO
+
+NameEnemy - is player - TICADO
